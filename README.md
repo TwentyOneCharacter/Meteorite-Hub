@@ -8,11 +8,21 @@
 ____
 
 # Adding to code
+### Main Code
 ```lua
 local MeteoriteHub = loadstring(game:HttpGet("https://raw.githubusercontent.com/TwentyOneCharacter/Meteorite-Hub/refs/heads/main/Main.lua"))()
 local hubFunctions = MeteoriteHub.Functions -- need to add buttons and etc.
 ```
+___
+> [!NOTE]
+> Test version may contain bugs. Im not recommended to use this version. Use it only for personal study (or if you want to experience bugs XD)
+### Testing version
+```lua
+local MeteoriteHub = loadstring(game:HttpGet("https://raw.githubusercontent.com/TwentyOneCharacter/Meteorite-Hub/refs/heads/main/Test.lua"))() -- (Nothing here for now.)
+local hubFunctions = MeteoriteHub.Functions
+```
 ____
+# FUNCTIONS
 
 ### Creating Page
 ```lua
