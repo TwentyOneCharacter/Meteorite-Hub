@@ -9,7 +9,7 @@ ____
 
 # Adding to code
 ```lua
-local MeteoriteHub = loadstring(game:HttpGet("https://raw.githubusercontent.com/TwentyOneCharacter/Meteorite-Hub/refs/heads/main/Main.lua?token=GHSAT0AAAAAADLBZ4R5JTDLB4SWQ45W3X5E2IM46LQ"))()
+local MeteoriteHub = loadstring(game:HttpGet("https://raw.githubusercontent.com/TwentyOneCharacter/Meteorite-Hub/refs/heads/main/Main.lua"))()
 local hubFunctions = MeteoriteHub.Functions -- need to add buttons and etc.
 ```
 ____
