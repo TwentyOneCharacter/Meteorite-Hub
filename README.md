@@ -1,6 +1,6 @@
-# Welcome To "Meteorite Hub" Page!
+# Welcome To "Meteorite library" Page!
 > [!WARNING]
-> Hub can be used by anyone but please leave the authorship to me.
+> this library can be used by anyone but please leave the authorship to me.
 
 ### Recommended Executor :: Solara, Velocity & Xeno
 > [!NOTE]
