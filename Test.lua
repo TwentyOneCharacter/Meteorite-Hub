@@ -1690,8 +1690,6 @@ MeteoriteHub.Init = function(hubName: string, showGameTitle: boolean)
 	return _dataArray
 end
 
-MeteoriteHub.Init("Testing", true)
-
 ---------------------------------------------
 
 return MeteoriteHub
