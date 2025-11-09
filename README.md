@@ -19,7 +19,7 @@ ___
 ### Testing version
 ```lua
 local MeteoriteHub = loadstring(game:HttpGet("https://raw.githubusercontent.com/TwentyOneCharacter/Meteorite-library/refs/heads/main/Test.lua"))() -- (Nothing here for now.)
-local dataArray = MeteoriteHub.Init() -- returning data array
+local dataArray = MeteoriteHub.Init() -- returning data array (you can add {string, boolean} to get {title name, show place name})
 local hubFunctions = dataArray.Functions
 ```
 ____
